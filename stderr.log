@@ -1,0 +1,132 @@
+2023-07-27T01:09:24.007557919-06:00 - This is an error!
+2023-07-27T01:09:24.007615735-06:00 - This is an info!
+2023-07-27T01:09:24.007646135-06:00 - This is an warning!
+2023-07-27T01:09:24.007918070-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:09:24.007960114-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:11.016221905-06:00 - This is an error!
+2023-07-27T01:13:11.016274377-06:00 - This is an info!
+2023-07-27T01:13:11.016305480-06:00 - This is an warning!
+2023-07-27T01:13:11.016563930-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:11.016605758-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:11.676364186-06:00 - This is an error!
+2023-07-27T01:13:11.676416149-06:00 - This is an info!
+2023-07-27T01:13:11.676449168-06:00 - This is an warning!
+2023-07-27T01:13:11.676714501-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:11.676760017-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:12.335375891-06:00 - This is an error!
+2023-07-27T01:13:12.335425691-06:00 - This is an info!
+2023-07-27T01:13:12.335454461-06:00 - This is an warning!
+2023-07-27T01:13:12.335703249-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:12.335745648-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:12.995217605-06:00 - This is an error!
+2023-07-27T01:13:12.995266856-06:00 - This is an info!
+2023-07-27T01:13:12.995297434-06:00 - This is an warning!
+2023-07-27T01:13:12.995558355-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:12.995602500-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:13.655808403-06:00 - This is an error!
+2023-07-27T01:13:13.655880690-06:00 - This is an info!
+2023-07-27T01:13:13.655926670-06:00 - This is an warning!
+2023-07-27T01:13:13.656206963-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:13.656255500-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:14.315487938-06:00 - This is an error!
+2023-07-27T01:13:14.315550233-06:00 - This is an info!
+2023-07-27T01:13:14.315591352-06:00 - This is an warning!
+2023-07-27T01:13:14.315848387-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:14.315902017-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:14.993663474-06:00 - This is an error!
+2023-07-27T01:13:14.993716359-06:00 - This is an info!
+2023-07-27T01:13:14.993746446-06:00 - This is an warning!
+2023-07-27T01:13:14.994037852-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:14.994080730-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:15.655229217-06:00 - This is an error!
+2023-07-27T01:13:15.655284300-06:00 - This is an info!
+2023-07-27T01:13:15.655317300-06:00 - This is an warning!
+2023-07-27T01:13:15.655576093-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:15.655620612-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:16.314547097-06:00 - This is an error!
+2023-07-27T01:13:16.314601518-06:00 - This is an info!
+2023-07-27T01:13:16.314632092-06:00 - This is an warning!
+2023-07-27T01:13:16.314890285-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:16.314935430-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:16.972613008-06:00 - This is an error!
+2023-07-27T01:13:16.972665346-06:00 - This is an info!
+2023-07-27T01:13:16.972695741-06:00 - This is an warning!
+2023-07-27T01:13:16.972965146-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:16.973008154-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:17.631721728-06:00 - This is an error!
+2023-07-27T01:13:17.631773174-06:00 - This is an info!
+2023-07-27T01:13:17.631804664-06:00 - This is an warning!
+2023-07-27T01:13:17.632063551-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:17.632105778-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:18.311165684-06:00 - This is an error!
+2023-07-27T01:13:18.311216281-06:00 - This is an info!
+2023-07-27T01:13:18.311246229-06:00 - This is an warning!
+2023-07-27T01:13:18.311511238-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:18.311555159-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:18.970409643-06:00 - This is an error!
+2023-07-27T01:13:18.970485990-06:00 - This is an info!
+2023-07-27T01:13:18.970517406-06:00 - This is an warning!
+2023-07-27T01:13:18.970779601-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:18.970834494-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:19.633749489-06:00 - This is an error!
+2023-07-27T01:13:19.633802627-06:00 - This is an info!
+2023-07-27T01:13:19.633834386-06:00 - This is an warning!
+2023-07-27T01:13:19.634100052-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:19.634144938-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:20.293685565-06:00 - This is an error!
+2023-07-27T01:13:20.293749625-06:00 - This is an info!
+2023-07-27T01:13:20.293780022-06:00 - This is an warning!
+2023-07-27T01:13:20.294088101-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:20.294133487-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:20.954127364-06:00 - This is an error!
+2023-07-27T01:13:20.954189278-06:00 - This is an info!
+2023-07-27T01:13:20.954237985-06:00 - This is an warning!
+2023-07-27T01:13:20.954500340-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:20.954547866-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:39.171895927-06:00 - This is an error!
+2023-07-27T01:13:39.171945938-06:00 - This is an info!
+2023-07-27T01:13:39.171972178-06:00 - This is an warning!
+2023-07-27T01:13:39.172223977-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:13:39.172262760-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:13:52.898723964-06:00 - parsed 3 headers
+2023-07-27T01:13:52.898776180-06:00 - incoming body is empty
+2023-07-27T01:13:52.898876815-06:00 - route was called without a query string, defaulting to empty
+2023-07-27T01:13:52.899054675-06:00 - flushed 213 bytes
+2023-07-27T01:13:52.899348635-06:00 - read eof
+2023-07-27T01:18:47.093512245-06:00 - This is an error!
+2023-07-27T01:18:47.093569457-06:00 - This is an info!
+2023-07-27T01:18:47.093599103-06:00 - This is an warning!
+2023-07-27T01:18:47.093872906-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:18:47.093916732-06:00 - listening on http://127.0.0.1:3030
+2023-07-27T01:23:49.271210228-06:00 - This is an error!
+2023-07-27T01:23:49.271268394-06:00 - This is an info!
+2023-07-27T01:23:49.271301952-06:00 - This is an warning!
+2023-07-27T01:23:49.271552812-06:00 - Server::run; addr=127.0.0.1:3030
+2023-07-27T01:23:49.271597499-06:00 - listening on http://127.0.0.1:3030
+{"time":"2023-07-27T01:33:04.077602541-06:00","message":"This is an error!","module_path":"rust_web_dev","file":"src/main.rs","line":16,"level":"ERROR","target":"rust_web_dev","thread":"main","thread_id":140096714104640,"mdc":{}}
+{"time":"2023-07-27T01:33:04.077678803-06:00","message":"This is an info!","module_path":"rust_web_dev","file":"src/main.rs","line":17,"level":"INFO","target":"rust_web_dev","thread":"main","thread_id":140096714104640,"mdc":{}}
+{"time":"2023-07-27T01:33:04.077733377-06:00","message":"This is an warning!","module_path":"rust_web_dev","file":"src/main.rs","line":18,"level":"WARN","target":"rust_web_dev","thread":"main","thread_id":140096714104640,"mdc":{}}
+{"time":"2023-07-27T01:33:04.078027008-06:00","message":"Server::run; addr=127.0.0.1:3030","module_path":"warp::server","file":"/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/warp-0.3.5/src/server.rs","line":133,"level":"INFO","target":"warp::server","thread":"main","thread_id":140096714104640,"mdc":{}}
+{"time":"2023-07-27T01:33:04.078099601-06:00","message":"listening on http://127.0.0.1:3030","module_path":"warp::server","file":"/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/warp-0.3.5/src/server.rs","line":134,"level":"INFO","target":"warp::server","thread":"main","thread_id":140096714104640,"mdc":{}}
+{"time":"2023-07-27T01:36:14.235765683-06:00","message":"This is an error!","module_path":"rust_web_dev","file":"src/main.rs","line":16,"level":"ERROR","target":"rust_web_dev","thread":"main","thread_id":139943741132608,"mdc":{}}
+{"time":"2023-07-27T01:36:14.235848249-06:00","message":"This is an info!","module_path":"rust_web_dev","file":"src/main.rs","line":17,"level":"INFO","target":"rust_web_dev","thread":"main","thread_id":139943741132608,"mdc":{}}
+{"time":"2023-07-27T01:36:14.235918752-06:00","message":"This is an warning!","module_path":"rust_web_dev","file":"src/main.rs","line":18,"level":"WARN","target":"rust_web_dev","thread":"main","thread_id":139943741132608,"mdc":{}}
+{"time":"2023-07-27T01:36:14.236212786-06:00","message":"Server::run; addr=127.0.0.1:3030","module_path":"warp::server","file":"/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/warp-0.3.5/src/server.rs","line":133,"level":"INFO","target":"warp::server","thread":"main","thread_id":139943741132608,"mdc":{}}
+{"time":"2023-07-27T01:36:14.236286414-06:00","message":"listening on http://127.0.0.1:3030","module_path":"warp::server","file":"/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/warp-0.3.5/src/server.rs","line":134,"level":"INFO","target":"warp::server","thread":"main","thread_id":139943741132608,"mdc":{}}
+{"time":"2023-07-27T01:36:18.006772495-06:00","message":"GET /questions 200 OK 86.468µs from 127.0.0.1:48734 with {\"host\": \"localhost:3030\", \"user-agent\": \"curl/7.81.0\", \"accept\": \"*/*\"}","module_path":"rust_web_dev","file":"src/main.rs","line":21,"level":"INFO","target":"rust_web_dev","thread":"tokio-runtime-worker","thread_id":139943512876608,"mdc":{}}
+{"time":"2023-07-27T01:39:36.182197966-06:00","message":"This is an error!","module_path":"rust_web_dev","file":"src/main.rs","line":16,"level":"ERROR","target":"rust_web_dev","thread":"main","thread_id":139795628232512,"mdc":{}}
+{"time":"2023-07-27T01:39:36.182280719-06:00","message":"This is an info!","module_path":"rust_web_dev","file":"src/main.rs","line":17,"level":"INFO","target":"rust_web_dev","thread":"main","thread_id":139795628232512,"mdc":{}}
+{"time":"2023-07-27T01:39:36.182339941-06:00","message":"This is an warning!","module_path":"rust_web_dev","file":"src/main.rs","line":18,"level":"WARN","target":"rust_web_dev","thread":"main","thread_id":139795628232512,"mdc":{}}
+{"time":"2023-07-27T01:39:36.182647790-06:00","message":"Server::run; addr=127.0.0.1:3030","module_path":"warp::server","file":"/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/warp-0.3.5/src/server.rs","line":133,"level":"INFO","target":"warp::server","thread":"main","thread_id":139795628232512,"mdc":{}}
+{"time":"2023-07-27T01:39:36.182731050-06:00","message":"listening on http://127.0.0.1:3030","module_path":"warp::server","file":"/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/warp-0.3.5/src/server.rs","line":134,"level":"INFO","target":"warp::server","thread":"main","thread_id":139795628232512,"mdc":{}}
+{"time":"2023-07-27T01:39:47.250335471-06:00","message":"Start querying questions","module_path":"rust_web_dev::routes::question","file":"src/routes/question.rs","line":14,"level":"INFO","target":"rust_web_dev::routes::question","thread":"tokio-runtime-worker","thread_id":139795391006272,"mdc":{}}
+{"time":"2023-07-27T01:39:47.250456057-06:00","message":"No pagination used","module_path":"rust_web_dev::routes::question","file":"src/routes/question.rs","line":22,"level":"INFO","target":"rust_web_dev::routes::question","thread":"tokio-runtime-worker","thread_id":139795391006272,"mdc":{}}
+{"time":"2023-07-27T01:39:47.250645926-06:00","message":"GET /questions 200 OK 470.957µs from 127.0.0.1:56018 with {\"host\": \"localhost:3030\", \"user-agent\": \"curl/7.81.0\", \"accept\": \"*/*\"}","module_path":"rust_web_dev","file":"src/main.rs","line":21,"level":"INFO","target":"rust_web_dev","thread":"tokio-runtime-worker","thread_id":139795391006272,"mdc":{}}
+{"time":"2023-07-27T01:48:48.801107411-06:00","message":"This is an error!","module_path":"rust_web_dev","file":"src/main.rs","line":16,"level":"ERROR","target":"rust_web_dev","thread":"main","thread_id":139828822392640,"mdc":{}}
+{"time":"2023-07-27T01:48:48.801186810-06:00","message":"This is an info!","module_path":"rust_web_dev","file":"src/main.rs","line":17,"level":"INFO","target":"rust_web_dev","thread":"main","thread_id":139828822392640,"mdc":{}}
+{"time":"2023-07-27T01:48:48.801253479-06:00","message":"This is an warning!","module_path":"rust_web_dev","file":"src/main.rs","line":18,"level":"WARN","target":"rust_web_dev","thread":"main","thread_id":139828822392640,"mdc":{}}
+{"time":"2023-07-27T01:48:48.801525872-06:00","message":"Server::run; addr=127.0.0.1:3030","module_path":"warp::server","file":"/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/warp-0.3.5/src/server.rs","line":133,"level":"INFO","target":"warp::server","thread":"main","thread_id":139828822392640,"mdc":{}}
+{"time":"2023-07-27T01:48:48.801600780-06:00","message":"listening on http://127.0.0.1:3030","module_path":"warp::server","file":"/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/warp-0.3.5/src/server.rs","line":134,"level":"INFO","target":"warp::server","thread":"main","thread_id":139828822392640,"mdc":{}}
+{"time":"2023-07-27T01:48:50.617833613-06:00","message":"2c3a6cc5-1545-4050-8301-d766dc157bda Start querying questions","module_path":"rust_web_dev::routes::question","file":"src/routes/question.rs","line":15,"level":"INFO","target":"rust_web_dev::routes::question","thread":"tokio-runtime-worker","thread_id":139828788135488,"mdc":{}}
+{"time":"2023-07-27T01:48:50.617917272-06:00","message":"2c3a6cc5-1545-4050-8301-d766dc157bda No pagination used","module_path":"rust_web_dev::routes::question","file":"src/routes/question.rs","line":23,"level":"INFO","target":"rust_web_dev::routes::question","thread":"tokio-runtime-worker","thread_id":139828788135488,"mdc":{}}
+{"time":"2023-07-27T01:48:50.618048674-06:00","message":"GET /questions 200 OK 378.023µs from 127.0.0.1:45968 with {\"host\": \"localhost:3030\", \"user-agent\": \"curl/7.81.0\", \"accept\": \"*/*\"}","module_path":"rust_web_dev","file":"src/main.rs","line":21,"level":"INFO","target":"rust_web_dev","thread":"tokio-runtime-worker","thread_id":139828788135488,"mdc":{}}
