@@ -1,0 +1,10 @@
+/home/engr-uba/Downloads/02 Rust-project/rust_web_dev/handle-errors/target/debug/deps/sqlformat-40698e9dab9aebde.rmeta: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/formatter.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/indentation.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/inline_block.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/params.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/tokenizer.rs
+
+/home/engr-uba/Downloads/02 Rust-project/rust_web_dev/handle-errors/target/debug/deps/sqlformat-40698e9dab9aebde.d: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/formatter.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/indentation.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/inline_block.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/params.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/tokenizer.rs
+
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/lib.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/formatter.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/indentation.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/inline_block.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/params.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.1.8/src/tokenizer.rs:

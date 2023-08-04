@@ -1,0 +1,11 @@
+/home/engr-uba/Downloads/02 Rust-project/rust_web_dev/handle-errors/target/debug/deps/dotenv-32f1aaf4ef625b99.rmeta: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs
+
+/home/engr-uba/Downloads/02 Rust-project/rust_web_dev/handle-errors/target/debug/deps/libdotenv-32f1aaf4ef625b99.rlib: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs
+
+/home/engr-uba/Downloads/02 Rust-project/rust_web_dev/handle-errors/target/debug/deps/dotenv-32f1aaf4ef625b99.d: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs
+
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs:
